@@ -5,13 +5,15 @@
 
 // function large(a,b){
 //     if(a>b){
-//         console.log('larger no is '+a)
+//         return a;
 //     }
 //     else{
-//         console.log('larger no is '+b)
+//         return b;
 //     }
 // }
-// large(a,b);
+// result= large(a,b);
+// console.log(result)
+
 
 // USER INTRACTION
 
